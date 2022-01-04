@@ -2,4 +2,4 @@
 
 ## Introduction
 
-This is a very serious program
+This is a very serious program.
